@@ -3,7 +3,7 @@ import { ArrowRight, ArrowDown, ChevronUp, Info, X } from 'lucide-react';
 import { useVideoScrub } from '@/useVideoScrub';
 
 const VIDEO_URL =
-  'https://res.cloudinary.com/j2rwj2ob/video/upload/v1789308721/refaca_com_o_efeito_de_drone_p.mp4';
+  'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260821_114821_a8ca298f-be2c-4613-a4dd-51b69e16bbde.mp4';
 
 const DARK = '#1D3045';
 
